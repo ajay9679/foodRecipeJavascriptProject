@@ -1,0 +1,3 @@
+forkify project
+This is a forkify project based on completely javascript and sass.
+In this project i used Model View Controller(MVC) architecture pattern that separates an application into three main logical components. In views Object Oriented Programming(OOP)s architecture is used that provides many concepts, such as inheritance, data binding, polymorphism, etc. Besides this Publisher-Subscriber(pubsub) model is used which is again a pattern where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers, but instead categorize published messages into classes without knowledge of which subscribers.
